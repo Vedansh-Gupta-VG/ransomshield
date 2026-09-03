@@ -16,8 +16,12 @@ async function handle(res) {
 export const api = {
   // The only endpoint this site uses: one call returns the entire scored
   // demo timeline (no accounts, no session state to manage client-side).
-  async demoStart() {
-    const res = await fetch(`${API_BASE}/demo/start`, { method: "POST" });
+  async demoStart(signal) {
+    const res = await fetch(`${API_BASE}/demo/start`, { method: "POST", signal });
+    return handle(res);
+  },
+  async checkHealth(signal) {
+    const res = await fetch(`${API_BASE}/health`, { signal });
     return handle(res);
   },
 };

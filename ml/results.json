@@ -1,0 +1,32 @@
+{
+  "accuracy": 0.9585,
+  "precision": 0.9651,
+  "recall": 0.95,
+  "f1_score": 0.9575,
+  "roc_auc": 0.9879,
+  "cv_f1_mean": 0.9515,
+  "cv_f1_std": 0.0074,
+  "false_positive_rate": 0.0332,
+  "false_negative_rate": 0.05,
+  "test_set_size": 651,
+  "feature_importance": {
+    "entropy_mean": 0.2184,
+    "entropy_slope": 0.0314,
+    "entropy_max": 0.2043,
+    "entropy_std": 0.1673,
+    "write_rate_mb_s": 0.0931,
+    "write_events_per_s": 0.1105,
+    "read_events_per_s": 0.1171,
+    "lba_variance": 0.0578
+  },
+  "confusion_matrix": [
+    [
+      320,
+      11
+    ],
+    [
+      16,
+      304
+    ]
+  ]
+}

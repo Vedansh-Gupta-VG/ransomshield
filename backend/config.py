@@ -13,6 +13,6 @@ MODEL_PATH = os.environ.get(
     "MODEL_PATH", os.path.join(os.path.dirname(__file__), "..", "ml", "model.pkl")
 )
 
-ALLOWED_ORIGINS = os.environ.get("ALLOWED_ORIGINS", "*").split(",")
+ALLOWED_ORIGINS = os.environ.get("ALLOWED_ORIGINS", "http://localhost:3000").split(",")
 
 DEMO_RATE_LIMIT = "20/minute"  # generous -- one call per page load, no per-step calls
