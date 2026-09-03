@@ -4,7 +4,7 @@ import { ShieldAlert, Activity, Zap, Github } from "lucide-react";
 
 export default function Home() {
   return (
-    <main className="min-h-screen bg-bg text-gray-100 pb-16">
+    <main className="flex-1 bg-bg text-gray-100 pb-16">
       <nav className="flex items-center justify-between px-8 py-5 border-b border-border">
         <div className="flex items-center gap-2 font-bold text-lg">
           <ShieldAlert className="text-accent" size={22} />
