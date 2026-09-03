@@ -1,0 +1,202 @@
+[
+  {
+    "entropy_mean": 0.9849,
+    "entropy_slope": -0.0,
+    "entropy_max": 0.9959,
+    "entropy_std": 0.0679,
+    "write_rate_mb_s": 9.5952,
+    "write_events_per_s": 2456.4,
+    "read_events_per_s": 4908.5333,
+    "lba_variance": 2066233483464337.5
+  },
+  {
+    "entropy_mean": 0.3374,
+    "entropy_slope": 0.0,
+    "entropy_max": 0.9958,
+    "entropy_std": 0.4482,
+    "write_rate_mb_s": 35.5428,
+    "write_events_per_s": 9103.7,
+    "read_events_per_s": 272.3,
+    "lba_variance": 347980913861917.6
+  },
+  {
+    "entropy_mean": 0.993,
+    "entropy_slope": 0.0,
+    "entropy_max": 0.9959,
+    "entropy_std": 0.0357,
+    "write_rate_mb_s": 0.5702,
+    "write_events_per_s": 146.1667,
+    "read_events_per_s": 281.5,
+    "lba_variance": 7578948976353365.0
+  },
+  {
+    "entropy_mean": 0.5131,
+    "entropy_slope": -0.0,
+    "entropy_max": 0.9957,
+    "entropy_std": 0.1625,
+    "write_rate_mb_s": 1.3379,
+    "write_events_per_s": 342.6667,
+    "read_events_per_s": 536.0667,
+    "lba_variance": 1.1013064152740798e+16
+  },
+  {
+    "entropy_mean": 0.6518,
+    "entropy_slope": 0.0001,
+    "entropy_max": 0.984,
+    "entropy_std": 0.2429,
+    "write_rate_mb_s": 0.1473,
+    "write_events_per_s": 37.7333,
+    "read_events_per_s": 45.0667,
+    "lba_variance": 7304261407307827.0
+  },
+  {
+    "entropy_mean": 0.9684,
+    "entropy_slope": 0.0,
+    "entropy_max": 0.9962,
+    "entropy_std": 0.128,
+    "write_rate_mb_s": 15.2825,
+    "write_events_per_s": 3912.7667,
+    "read_events_per_s": 6676.8667,
+    "lba_variance": 621928033203914.2
+  },
+  {
+    "entropy_mean": 0.9943,
+    "entropy_slope": -0.0,
+    "entropy_max": 0.9962,
+    "entropy_std": 0.0054,
+    "write_rate_mb_s": 1.6924,
+    "write_events_per_s": 433.3,
+    "read_events_per_s": 14.8,
+    "lba_variance": 101992663421199.6
+  },
+  {
+    "entropy_mean": 0.5188,
+    "entropy_slope": 0.0,
+    "entropy_max": 0.5647,
+    "entropy_std": 0.0281,
+    "write_rate_mb_s": 0.2001,
+    "write_events_per_s": 51.2667,
+    "read_events_per_s": 0.5667,
+    "lba_variance": 2299390207961.14
+  },
+  {
+    "entropy_mean": 0.2993,
+    "entropy_slope": -0.0005,
+    "entropy_max": 0.5556,
+    "entropy_std": 0.1604,
+    "write_rate_mb_s": 0.0196,
+    "write_events_per_s": 5.1333,
+    "read_events_per_s": 12.4,
+    "lba_variance": 678096974730040.9
+  },
+  {
+    "entropy_mean": 0.9942,
+    "entropy_slope": -0.0,
+    "entropy_max": 0.9962,
+    "entropy_std": 0.0075,
+    "write_rate_mb_s": 7.9539,
+    "write_events_per_s": 2036.4667,
+    "read_events_per_s": 217.5333,
+    "lba_variance": 18112291079917.38
+  },
+  {
+    "entropy_mean": 0.9936,
+    "entropy_slope": -0.0,
+    "entropy_max": 0.9959,
+    "entropy_std": 0.0144,
+    "write_rate_mb_s": 3.6288,
+    "write_events_per_s": 951.6333,
+    "read_events_per_s": 811.3333,
+    "lba_variance": 390588583971707.7
+  },
+  {
+    "entropy_mean": 0.9714,
+    "entropy_slope": -0.0,
+    "entropy_max": 0.9962,
+    "entropy_std": 0.117,
+    "write_rate_mb_s": 9.871,
+    "write_events_per_s": 2528.3333,
+    "read_events_per_s": 3366.3333,
+    "lba_variance": 622669511836835.2
+  },
+  {
+    "entropy_mean": 0.9574,
+    "entropy_slope": 0.0,
+    "entropy_max": 0.9963,
+    "entropy_std": 0.15,
+    "write_rate_mb_s": 12.2036,
+    "write_events_per_s": 3124.4333,
+    "read_events_per_s": 4583.0333,
+    "lba_variance": 976105542180321.8
+  },
+  {
+    "entropy_mean": 0.9866,
+    "entropy_slope": -0.0,
+    "entropy_max": 0.9963,
+    "entropy_std": 0.0763,
+    "write_rate_mb_s": 14.3009,
+    "write_events_per_s": 3661.0333,
+    "read_events_per_s": 3073.6,
+    "lba_variance": 387435344221654.4
+  },
+  {
+    "entropy_mean": 0.3214,
+    "entropy_slope": 0.0194,
+    "entropy_max": 0.4438,
+    "entropy_std": 0.1315,
+    "write_rate_mb_s": 0.0009,
+    "write_events_per_s": 0.2667,
+    "read_events_per_s": 391.4667,
+    "lba_variance": 222085977382792.0
+  },
+  {
+    "entropy_mean": 0.9928,
+    "entropy_slope": 0.0,
+    "entropy_max": 0.9962,
+    "entropy_std": 0.03,
+    "write_rate_mb_s": 7.1859,
+    "write_events_per_s": 1839.7667,
+    "read_events_per_s": 1528.0667,
+    "lba_variance": 287420251874465.9
+  },
+  {
+    "entropy_mean": 0.4316,
+    "entropy_slope": -0.0,
+    "entropy_max": 0.9957,
+    "entropy_std": 0.1662,
+    "write_rate_mb_s": 3.305,
+    "write_events_per_s": 846.1,
+    "read_events_per_s": 108.6,
+    "lba_variance": 103176661832155.77
+  },
+  {
+    "entropy_mean": 0.6654,
+    "entropy_slope": -0.0,
+    "entropy_max": 0.9962,
+    "entropy_std": 0.3021,
+    "write_rate_mb_s": 7.6472,
+    "write_events_per_s": 1957.7333,
+    "read_events_per_s": 987.8333,
+    "lba_variance": 380685444233930.9
+  },
+  {
+    "entropy_mean": 0.3217,
+    "entropy_slope": -0.0247,
+    "entropy_max": 0.5291,
+    "entropy_std": 0.1862,
+    "write_rate_mb_s": 0.0013,
+    "write_events_per_s": 0.3333,
+    "read_events_per_s": 0.0,
+    "lba_variance": 357871460938627.6
+  },
+  {
+    "entropy_mean": 0.9917,
+    "entropy_slope": -0.0,
+    "entropy_max": 0.9962,
+    "entropy_std": 0.0431,
+    "write_rate_mb_s": 68.6791,
+    "write_events_per_s": 17581.9667,
+    "read_events_per_s": 18049.5333,
+    "lba_variance": 245838273876520.0
+  }
+]
