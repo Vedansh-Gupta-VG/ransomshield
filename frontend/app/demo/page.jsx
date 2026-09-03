@@ -107,7 +107,7 @@ export default function DemoPage() {
           <ShieldAlert className="text-accent" size={20} /> RansomShield
         </Link>
         <a
-          href="https://github.com/YOUR_USERNAME/ransomshield"
+          href="https://github.com/Vedansh-Gupta-VG/ransomshield"
           target="_blank"
           rel="noopener noreferrer"
           className="text-sm text-gray-400 hover:text-white transition"
@@ -291,7 +291,7 @@ export default function DemoPage() {
             That's the full picture: real telemetry, scored moment-by-moment by the real trained
             model, without knowing the file name or malware family in advance.{" "}
             <a
-              href="https://github.com/YOUR_USERNAME/ransomshield"
+              href="https://github.com/Vedansh-Gupta-VG/ransomshield"
               target="_blank"
               rel="noopener noreferrer"
               className="text-accent hover:underline"

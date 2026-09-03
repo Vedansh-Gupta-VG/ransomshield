@@ -11,7 +11,7 @@ export default function Home() {
           RansomShield
         </div>
         <a
-          href="https://github.com/YOUR_USERNAME/ransomshield"
+          href="https://github.com/Vedansh-Gupta-VG/ransomshield"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-1.5 text-sm text-gray-400 hover:text-white transition"
