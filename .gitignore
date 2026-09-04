@@ -22,10 +22,3 @@ data/raw/
 
 # OS
 .DS_Store
-
-honeypot/
-alerts.log
-data/sample_logs/*.cef
-data/sample_logs/*.json
-data/sample_logs/*.log
-alerts.log
